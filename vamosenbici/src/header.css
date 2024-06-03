@@ -1,0 +1,18 @@
+header{
+    display: inline;
+    justify-content: end;
+    background-color: aquamarine;
+    width: 300px;
+}
+
+.listaheader li{
+    display: inline;
+    justify-content: end;
+    background-color: blue;
+}
+
+.listaheader{
+    justify-content: center; 
+    background-color: blueviolet;
+    width: 100%;   
+}

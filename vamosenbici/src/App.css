@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  background-color: chartreuse;
+}
+
+.columna1 {
+  height: 200px;
+  width: 50%;
+  background-color: aqua;
+  margin-right: 2px;
+  border-radius: 10px;
+}
+
+.columna2{
+  height: 200px;
+  width: 50%;
+  background-color: brown;
+  border-radius: 10px;
+}
+
+.formulario1{
+  width: ;
+}

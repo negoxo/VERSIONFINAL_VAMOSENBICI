@@ -1,0 +1,21 @@
+footer{
+    display: flex;
+}
+
+.imagen{
+    width: 45%;
+    background-color:blue;
+}
+
+.Redes{
+    width: 49%;
+    background-color: brown;
+    margin-left: 5%;
+    padding: 3%;
+   text-align: center;   
+}
+
+.listafooter li{
+    list-style: none;
+}
+
